@@ -1,100 +1,64 @@
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(1).jpg 80,3,215,144,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(2).jpg 59,6,174,126,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2Q__%20(1).jpg 27,15,107,87,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2Q__%20(2).jpg 87,2,197,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/2Q__.jpg 3,1,106,103,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(4).jpg 96,30,151,79,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(5).jpg 135,4,266,131,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(3).jpg 66,49,177,153,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(6).jpg 145,55,213,129,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_%20(7).jpg 81,39,180,137,0 148,0,248,101,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/9k_.jpg 26,0,186,162,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(2).jpg 187,0,269,70,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(3).jpg 13,0,247,170,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(4).jpg 80,58,185,172,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z%20(1).jpg 46,4,143,100,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Z.jpg 117,22,235,127,0 6,84,104,180,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(1).jpg 9,9,195,169,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(10).jpg 56,23,119,82,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(100).jpg 109,86,154,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(11).jpg 123,19,193,88,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(14).jpg 7,22,195,182,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(12).jpg 95,51,186,120,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(13).jpg 68,14,183,109,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(15).jpg 28,8,138,119,0 67,55,195,193,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(16).jpg 23,8,210,181,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(18).jpg 47,5,251,168,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(17).jpg 74,12,181,98,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(19).jpg 153,2,254,100,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(2).jpg 67,16,132,77,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(20).jpg 46,26,133,107,0 132,35,213,107,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(21).jpg 17,77,102,167,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(23).jpg 175,8,228,67,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(22).jpg 150,6,226,95,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(24).jpg 80,2,225,146,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(25).jpg 56,19,146,94,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(26).jpg 82,17,177,115,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(27).jpg 44,62,207,175,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(29).jpg 29,2,180,155,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(28).jpg 163,27,278,112,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(3).jpg 13,9,108,112,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(30).jpg 122,65,159,112,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(31).jpg 153,83,180,110,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(32).jpg 142,21,222,91,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(33).jpg 129,17,289,163,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(34).jpg 65,102,85,122,0 93,81,119,104,0 124,82,149,105,0 150,84,175,107,0 180,85,206,112,0 213,95,239,118,0 243,110,262,132,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(36).jpg 77,23,170,111,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(35).jpg 46,25,145,146,0 131,8,250,128,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(37).jpg 96,10,171,74,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(38).jpg 67,20,172,111,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(39).jpg 8,10,146,123,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(4).jpg 109,27,188,98,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(40).jpg 172,3,279,109,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(42).jpg 106,7,195,87,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(41).jpg 57,40,237,170,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(43).jpg 78,38,106,73,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(44).jpg 55,5,217,177,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(46).jpg 67,56,158,118,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(45).jpg 16,17,243,187,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(47).jpg 54,5,164,101,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(48).jpg 55,42,100,87,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(49).jpg 195,41,266,101,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(50).jpg 94,21,119,47,0 180,12,203,33,0 235,14,261,37,0 105,102,131,126,0 226,103,265,148,0 52,98,76,117,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(5).jpg 109,7,212,110,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(51).jpg 20,4,118,84,0 176,46,273,168,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(52).jpg 164,27,224,84,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(53).jpg 0,0,110,101,0 155,26,286,148,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(54).jpg 39,1,205,150,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(56).jpg 63,14,179,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(57).jpg 121,59,188,122,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(58).jpg 76,30,225,168,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(59).jpg 95,2,171,86,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(6).jpg 74,3,131,53,0 184,56,252,113,0 133,26,190,83,0 247,21,288,73,0 11,37,62,92,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(60).jpg 122,21,251,134,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(61).jpg 170,12,238,81,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(62).jpg 99,21,156,81,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(63).jpg 46,31,130,105,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(64).jpg 111,11,218,131,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(65).jpg 52,24,131,118,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(66).jpg 94,38,188,124,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(67).jpg 76,3,190,113,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(69).jpg 54,17,238,166,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(68).jpg 119,13,244,137,0 30,23,131,125,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(7).jpg 71,20,121,65,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(70).jpg 176,7,255,98,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(71).jpg 146,0,254,116,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(73).jpg 63,0,212,131,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(72).jpg 58,5,211,154,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(74).jpg 177,54,242,113,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(75).jpg 26,29,166,148,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(76).jpg 15,6,84,82,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(78).jpg 47,22,183,150,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(77).jpg 82,63,134,120,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(79).jpg 103,5,180,56,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(8).jpg 86,0,293,163,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(80).jpg 102,65,132,103,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(81).jpg 67,1,200,147,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(82).jpg 76,16,190,138,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(83).jpg 97,5,264,166,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(84).jpg 46,7,147,99,0
-/home/ubuntu/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/images%20(85).jpg 55,34,93,79,0 216,31,251,70,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/020-gst-invoice-example-pdf-invoice-template-tax.jpg 352,18,515,148,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/1e4e71b5800abf0a1c69ac87ecf3ed0f.jpg 50,62,231,175,0 238,696,363,712,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/687474703a2f2f692e696d6775722e636f6d2f433365506471512e706e67.jpg 26,70,260,137,0 20,226,170,338,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/billing-invoice-for-legal-services.jpg 29,105,181,177,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/billing-invoice-template.jpg 28,40,176,126,0 212,721,389,740,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Business-invoice.jpg 344,7,553,163,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/circles.jpg 76,190,195,260,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/collapsed-consolidated-invoice-chargify.jpg 18,36,277,106,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/commercial-invoice.jpg 378,165,473,268,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/downnload-microsoft-invoice-template-sample-business-printable.jpg 50,42,177,113,0 44,115,276,158,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/excel-invoice-template.jpg 498,21,584,116,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/fedex-freight-commercial-invoice-fedex-commercial-invoice-template-microsoft-excel-775x1024.jpg 232,7,357,62,0 135,68,213,94,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/file-flvS8wPDcg.jpg 18,64,332,137,0 15,140,116,248,0 437,87,585,246,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gst-invoice-template-excel-malaysia-malaysia-invoice-template-professional-invoices-template-best-of-tax-ideas.jpg 88,14,281,107,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/gst-invoice-template-word-gst-tax-invoice-format-in-excel-gst-tax-invoice-format-exe-download.jpg 163,30,439,123,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/html-and-pdf-result.jpg 23,32,214,136,0 444,25,587,171,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IC-Google-Invoice-Template.jpg 18,52,123,171,0 206,725,396,745,0 233,751,364,769,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/IC-Google-Packing-Slip-Template.jpg 18,45,127,158,0 213,708,388,727,0 238,735,360,749,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/image2.jpg 6,29,179,80,0 1,92,166,211,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/image-3.jpg 16,2,277,93,0 9,104,160,169,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-00984-Clean-page-001.jpg 212,21,334,99,0 340,21,434,82,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-01987-Bold-page-001.jpg 291,26,409,86,0 419,25,493,71,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-041-A-Modern-page-001.jpg 332,729,469,783,0 472,726,563,782,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice092015.jpg 37,7,319,71,0 140,749,468,789,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-1564-Creative-page-001.jpg 179,42,296,108,0 300,44,385,99,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice(1).jpg 
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-20802-Elegant-New-page-001.jpg 170,180,284,246,0 289,182,372,231,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice(2).jpg 26,37,200,104,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-B-0191-Playful-page-001.jpg 333,162,560,244,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoiceberry_indesign_invoice_template_lime_on_ice.jpg.pagespeed.ce.gaEfGwdBT_.jpg 34,32,402,108,0 103,125,312,168,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-D-085-Photo-New-page-001-1.jpg 40,237,202,324,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-D-085-Plain-page-001(1).jpg 202,31,332,93,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Invoice-D-085-Plain-page-001.jpg 203,25,329,111,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-hero-full-it.jpg 309,27,445,95,0 462,30,576,95,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-sample.jpg 19,36,196,117,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-construction-free-excel-invoice-templates-smartsheet.jpg 1,93,152,223,0 9,8,253,81,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-band-blue-750px.jpg 40,82,148,152,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-classic-blue-750px.jpg 39,51,183,130,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-classic-white-750px.jpg 26,46,172,123,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-cool-waves-750px.jpg 47,67,237,150,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-flag-of-india-750px.jpg 29,86,164,144,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-modern-red-750px.jpg 72,51,200,124,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-neat-750px.jpg 25,93,159,140,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice-template-in-pure-white-750px.jpg 28,36,264,106,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/invoice.jpg 8,101,144,217,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/LARGE_635747981557862333@eninvoice.jpg 28,36,163,73,0 26,698,143,756,0 153,696,272,755,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/mceclip2.jpg 16,30,281,133,0 388,20,576,54,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Microsoft-Invoice-Template.jpg 2,487,114,620,0 4,694,93,750,0 209,699,344,745,0 479,696,593,751,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/modern.jpg 26,36,212,100,0 307,39,478,160,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/ms-excel-jewelry-invoice-template-invoice-templates-receipt.jpg 33,36,247,120,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Notebook-Word.jpg 41,42,194,111,0 46,148,188,246,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/pdf-invoice-template.jpg 456,21,579,104,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/pdf-PDF-Invoice3-1.jpg 
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/pro_1.jpg 339,25,500,164,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Sample-invoice.jpg 12,1,243,95,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/screenshot_invoiceberry_invoice_template_5.jpg 263,123,388,250,0 120,645,385,669,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/service-invoice.jpg 44,54,201,158,0 235,677,363,694,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/Simple-invoice.jpg 210,137,396,169,0 437,186,565,261,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/singapore-invoice-template-singapore-gst-invoice-template-sales.jpg 89,64,362,165,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/step-3.jpg 43,140,198,299,0 56,76,179,125,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/TAX_INVOICE_IN00012_ClearTax-11-1024x1012.jpg 78,15,250,86,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/timesheet-invoice.jpg 28,136,140,236,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/word-invoice-template.jpg 26,50,198,154,0 215,694,385,710,0
+/home/lee/git/TrainYourOwnYOLO/Data/Source_Images/Training_Images/vott-csv-export/writer-invoice-template-791x1024.jpg 70,74,218,135,0
